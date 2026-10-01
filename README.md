@@ -1,6 +1,7 @@
 # Weather Station Firmware
 
-Firmware binaries and versioning for the ESP32-C3 Weather Station OTA updates.
+Firmware binaries and versioning for the Seeed Studio XIAO ESP32-C5 Weather
+Station OTA updates.
 
 ## Directory Structure
 
